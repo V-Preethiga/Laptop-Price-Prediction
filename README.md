@@ -1,2 +1,2 @@
 # Laptop-Price-Prediction
-This project predicts the price of laptops based on their specifications such as processor type, RAM, storage, GPU, and operating system. The goal is to help users estimate laptop prices before purchase using machine learning.
+This project predicts the rating of laptops based on their specifications such as brand, processor type, RAM, storage, GPU, operating system, weight, and other features. By analyzing these specifications, the model classifies laptops into rating categories.
